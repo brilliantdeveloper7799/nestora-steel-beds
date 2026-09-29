@@ -36,4 +36,4 @@ Your existing README.md can remain; update it only if you want the project descr
 ## Current business details
 - WhatsApp / Phone: +91 90140 81842
 - Founder & Owner: Mohammed Yahya
-- Website developed by: Hafaiz Mohammed Shuaib
+- Website developed by: Mohammed Shuaib
